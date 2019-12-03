@@ -1,0 +1,2 @@
+# Predict_Building_Energy_Efficiency
+Business Problem: A real estate developer was interested in building energy efficient homes to take advantage of government energy efficiency grants or credits. This could also attract potential new home buyers interested in energy efficient homes to claim IRS Nonbusiness Tax Credit prior to its expiration on December 31, 2017. The data set for this project is from http://archive.ics.uci.edu/ml/datasets/Energy+efficiency with the following information:
